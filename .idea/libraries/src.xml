@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/src" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test/applets" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test/midi" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test/midi/old" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test/misc" />
+      <root url="file://$PROJECT_DIR$/../../../tritonus-0.3.0/test/old" />
+    </SOURCES>
+  </library>
+</component>
